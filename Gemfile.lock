@@ -162,6 +162,7 @@ DEPENDENCIES
   binding_of_caller
   bootstrap-sass (~> 3.0.3.0)
   coffee-rails (~> 4.0.0)
+  guard
   guard-livereload
   haml-rails
   jbuilder (~> 1.2)
